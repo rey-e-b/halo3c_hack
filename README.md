@@ -13,3 +13,7 @@ it's a mix of reverse engineering, testing, figuring exactly how this thing work
 
 ## next steps:
 **as of 02/13/2025 it's on the way and expected to get to my house at 02/24/2025**
+
+## how to follow along:
+if you’re here to try it yourself, just clone this repo.  
+be aware: **this is a personal documentation repo**, not a polished project.
