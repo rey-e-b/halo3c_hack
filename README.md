@@ -1,4 +1,4 @@
-## project Overview
+## project overview:
 this is my personal journal for a hardware hacking project, specifically the Halo 3c air/temp/vape/sound(?) sensor.
 it's a mix of reverse engineering, testing, figuring exactly how this thing works.
 
