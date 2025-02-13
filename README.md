@@ -2,7 +2,7 @@
 this is my personal journal for a hardware hacking project, specifically the Halo 3c air/temp/vape/sound(?) sensor.
 it's a mix of reverse engineering, testing, figuring exactly how this thing works.
 
-## current setup.
+## current setup:
 - target device: HALO Smart Sensor 3C
 - tools: mostly avaliable at the [PDX CTRLH Hackerspace](https://pdxhackerspace.org)
 
